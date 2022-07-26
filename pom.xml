@@ -14,7 +14,7 @@
 	<name>SoulfullYogaCourseApplication</name>
 	<description>A backend course application</description>
 	<properties>
-		<java.version>7</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
